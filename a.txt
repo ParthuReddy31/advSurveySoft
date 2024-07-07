@@ -1,0 +1,534 @@
+Script started on 2024-07-07 01:09:29+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="234" LINES="57"]
+[?2004h]0;ubuntu@ip-172-31-25-163: ~/sky[01;32mubuntu@ip-172-31-25-163[00m:[01;34m~/sky[00m$ ;s
+[?2004lbash: syntax error near unexpected token `;'
+[?2004h]0;ubuntu@ip-172-31-25-163: ~/sky[01;32mubuntu@ip-172-31-25-163[00m:[01;34m~/sky[00m$ ls
+[?2004la.txt  demo
+[?2004h]0;ubuntu@ip-172-31-25-163: ~/sky[01;32mubuntu@ip-172-31-25-163[00m:[01;34m~/sky[00m$ cat a,[K\.t[K[K[K.txt
+[?2004l[?2004h]0;ubuntu@ip-172-31-25-163: ~/sky[01;32mubuntu@ip-172-31-25-163[00m:[01;34m~/sky[00m$ car [K[K[Kat ~a.txtls[K;scat ~/.bash_history > a.txt
+[?2004l[?2004h]0;ubuntu@ip-172-31-25-163: ~/sky[01;32mubuntu@ip-172-31-25-163[00m:[01;34m~/sky[00m$ car [K[K[K[Kcat ~/.bash_history > a.txta.txt[Kls[Kcat a.txt
+[?2004lfree
+top
+df
+free
+nproc
+top
+df | free | nproc | top
+ls
+ls -l
+mkdir parthu
+mkdir raja
+ls -l
+ls -a
+ls -la
+touch parthu.sh
+vi parthu.sh
+cat parthu.sh
+./parthu.sh
+chmod 777
+chmod 777 parthu.sh
+./parthu.sh
+vi parthu.sh
+./parthu.sh
+ps 
+ps -ef
+vi parthu.sh
+exit
+ls
+lodout
+traceroute
+sudo apt install traceroute
+traceroute
+traceroute -4
+ifconfig
+sudo apt install net-tools
+ifconfig
+ifconfig en0
+ifconfig | grep "inet"
+ifconfig | grep "inet" |awk {print $2}
+ifconfig | grep "inet" |awk '{print $2}'
+dig google.com
+dig parthureddy.info
+docker run hello-world
+sudo systemctl status docker
+docker run hello-world
+sudo usermod -aG docker ubuntu
+logout
+sudo apt update
+sudo apt install docker.io -y
+history
+sudo systemctl status docker
+docker run hello-world
+git clone https://github.com/ParthuReddy31/Docker-Zero-to-Hero.git
+cd Docker-Zero-to-Hero/
+ls
+cd examples/
+ls
+touch app.py
+vi app.py 
+ls
+cat app.py 
+cd first-docker-file/
+ls
+vi Dockerfile 
+git clone https://github.com/ParthuReddy31/Docker-Zero-to-Hero.git
+ls
+cd Docker-Zero-to-Hero/
+ls
+cd examples/
+ls
+cd first-docker-file/
+ls
+docker build -t parthureddy3/my-first-docker-image:latest .
+docker run -it parthureddy3/my-first-docker-image:latest
+docker login 
+docker push parthureddy3/my-first-docker-image:latest
+docker ps
+ls
+cd Docker-Zero-to-Hero/
+sudo systemctl status docker
+docker ps:
+docker run -it parthureddy3/my-first-docker-image:latest
+docker run  parthureddy3/my-first-docker-image:latest
+ls -a
+git login
+docker login
+cd ..
+ls
+cd raja
+cp ../parthu .
+ls
+movie ./parthu ..
+mov ./parthu ..
+mov man
+mv parthu ..
+ls
+cd ..
+ld
+ls
+git
+git init
+git add Docker-Zero-to-Hero/
+ld
+ls
+git add raja'
+git add raja
+git status 
+git commit -m "this is the python file"
+gitlog
+git log
+git push raja
+git push origin main
+git remote add origin https://github.com/ParthuReddy31/Git_1
+git status
+git commit -m "this is a docker file" 
+ls 
+cd raja
+ls
+git add hello.py 
+git status 
+cd ..
+ls
+cd Docker
+cd Docker-Zero-to-Hero/
+ls
+git add .
+git status
+git discard
+discard
+git rm Docker-Zero-to-Hero/
+git rm
+git rm Docker-Zero-to-Hero
+git status
+git clone https://github.com/ParthuReddy31/Devops.git
+ls
+cd Devops
+git remote -v
+git push 
+git remote add https://github.com/ParthuReddy31/Devops.git
+cd ..
+ls
+git log
+docker ps
+docker log
+docker ps -a
+docker start 66655192841a
+docker ps
+docker start 3d60644114f0
+docker ps
+docker run redis 
+docker ps -a
+docker start 4dea1a0a6357
+docker ps
+docekr stop 4dea1a0a6357
+docker stop 4dea1a0a6357
+docker ps
+docker start 4dea1a0a6357
+docker ps
+docker start 4a657cc3f622
+docker ps
+docker run -d redis 
+docker ps
+docker run -d redis
+docker ps
+docker stop
+docker stop 3
+docker ps
+docker stop 79bb28fa5a9e
+docker ps
+docker stop redis
+docker stop 79bb28fa5a9e
+docker ps
+docker stop 1e06c7b2ba4f
+docker stop 4dea1a0a6357
+docker ps
+docker ps -a
+docker start bcc10aa2dcd3
+docker ps
+docker start 79bb28fa5a9e
+docker ps
+docker exec -it 79bb28fa5a9e /bin/bash
+ssh-keygen -t ed25519 -C "pardhureddy084@gmail.com"
+cat ~/.ssh/id_ed25519.pub
+cat /home/ubuntu/.ssh/id_ed25519.pub
+ls ~/.ssh
+ls ~/.ssh/authorized_keys 
+ls -a ~/.ssh/authorized_keys 
+ssh-keygen -t ed25519 -C "pardhureddy084@gmail.com"
+cat /home/ubuntu/.ssh/id_ed25519.pub
+ls
+cd raja
+ls
+git init
+git add .
+git commit -m "First file from instance"
+git config user.name "ParthuReddy31" && git config user.email "pardhureddy084@gmail.com"
+git config user.name "ParthuReddy31" && git config user.email "pardhureddy084@gmail.com" --global
+git commit -m "First file from instance"
+git checkout -b main
+git remote set-url origin git@github.com:ParthuReddy31/Devops.git
+git remote add origin git@github.com:ParthuReddy31/Devops.git
+git push 
+git push --set-upstream origin main
+git pull
+git push
+git push --set-upstream origin main
+git pull --rebase
+git pull git@github.com:ParthuReddy31/Devops.git main
+git pull git@github.com:ParthuReddy31/Devops.git main --rebase
+ls
+git push
+git push --set-upstream origin main
+cd ..
+ls
+cd Devops/
+ls
+cd ..
+history
+git in 
+git init
+git log
+git checkout man
+git checkout 
+git add Docker-Zero-to-Hero/
+git status
+git log
+git commit -m "First Docker folder"
+mkdir vp
+cd vp
+cd ..
+ls
+cd Docker-Zero-to-Hero/
+ls
+cat commands.md 
+LS
+ls
+cd examples 
+ls
+cd first-docker-file/
+ls
+cp Dockerfile vp
+cd ..
+ls
+cd cp
+cd vp
+ls
+cd ..
+cd Docker-Zero-to-Hero/
+cd first-docker-file/
+ls
+git init
+ls
+cd
+cd e
+cd example
+cd examples
+ls
+cd Docker-Zero-to-Hero/
+cd examples/
+ls
+git add first-docker-file/
+git commit -m "Docker File"
+git status
+git log
+s
+ls
+git push
+git remote -v
+git pull git@github.com:ParthuReddy31/Devops.git
+git push 
+git add remote origin git@github.com:ParthuReddy31/Devops.git
+git pull git@github.com:ParthuReddy31/Devops.git
+history
+git config user.name "ParthuReddy31" && git config user.email "pardhureddy084@gmail.com"
+git pull git@github.com:ParthuReddy31/Devops.git
+history | rebase
+history
+git pull git@github.com:ParthuReddy31/Devops.git main --rebase
+git rebase
+git rebase --abort
+git log
+cd..
+cd ..
+git log
+git status
+cd D
+cd Docker-Zero-to-Hero/
+git status
+ls
+cd ..
+ls
+cd Docker-Zero-to-Hero/
+ls
+cd ..
+rm -rf Docker-Zero-to-Hero/
+ls
+it pull git@github.com:ParthuReddy31/Docker-Zero-to-Hero.git
+git pull git@github.com:ParthuReddy31/Docker-Zero-to-Hero.git
+git pull git@github.com:ParthuReddy31/Docker-Zero-to-Hero.git --rebase
+git checkout 
+ls
+cd Docker-Zero-to-Hero/
+ls
+cd ..
+cat parthu,sh
+cat parthu.sh
+cp parthu.sh vp
+cd vp
+ls
+git init
+git add parthu.sh 
+git commit -m "Node Health Version-1"
+git branch 
+git branch -m master main
+git branch
+git pull git@github.com:ParthuReddy31/Devops.git 
+git push 
+git add remote git@github.com:ParthuReddy31/Devops.git
+git staus
+git status
+git log
+c
+htop
+ctop
+ls
+cd Docker-Zero-to-Hero/
+bat yes
+cat yes
+cat yes.pub
+cd ..
+ls
+cat yes
+cat yes.pub
+cat volumes.md
+ls
+mv README.md Docker-Zero-to-Hero/
+ls
+mv commands.md Docker-Zero-to-Hero/
+ls
+mv examples Docker-Zero-to-Hero/
+ls
+mv networking.md 
+mv networking.md Docker
+ls
+rm Docker
+ls
+mv volumes.md Docker-Zero-to-Hero/
+ls
+cd Docker-Zero-to-Hero/
+ls
+pwd 
+vi ~/.zshrc
+exit
+git switch main
+git switch master main
+git branch -m master main
+docker login
+docker buildx
+docker buildx ls
+touch demo.txt
+ls
+vi demo.txt 
+bat demo.txt 
+cat demo.txt
+git add demo.txt
+git status
+git commit -m "file added by Parthu"
+git remote -v
+git remote add origin git@github.com:ParthuReddy31/Devops.git
+git push 
+git push --set-upstream origin main
+git config --global
+ssh -T git@github.com
+git status
+git log
+ls
+git origin
+git remote -v
+git status
+git stash
+ls
+git status
+cd Devops/ | cat .gitignore
+cd Devops/ && cat .gitignore
+cd  Dev
+ls
+ls -la
+ls
+cd ..
+ls
+ls -la
+cd Devops/
+ls -la
+rm -rf .git
+ls -la
+cd ..
+ls
+cd Docker-Zero-to-Hero/
+ls -la
+cd examples/
+ls -la
+cd ..
+cd raja
+cd ..
+ls
+cd raja/
+ls -la
+rm -rf .git
+cd ..
+cd vp
+ls -la
+rm -rf .git
+cd ..
+ls
+ls -la
+git add demo.txt
+git status
+git commit -m "file added by Parthu"user.name “parthasarathireddykota”
+git config - -global user.email “yvt10@txstate.edu"
+git config --global user.email “yvt10@txstate.edu"
+git config - -global user.email “pardhureddy084@gmail.com"
+git config --global user.email “pardhureddy084@gmail.com"
+git config --global user.email “pardhureddy084@gmail.com"
+
+
+git config --help
+git config --get-all
+git config --get email
+git config -list
+git config --list
+git config -get [user.name | user.email]
+git config --get [user.name | user.email]
+git config --get user.name 
+git config --get user.email
+git config --list
+git config user.name "ParthuReddy31" && git config user.email "pardhureddy084@gmail.com" --global
+git config --list
+pwd
+ls
+git config --global user.email "parthasarathireddy@gmail.com"
+git config --list
+mkdir testing
+cd testing/
+git init
+vi file1.txt
+git add file1.txt
+git status 
+git status -s
+git commit file1.txt -m “added file1.txt”
+git commit file1.txt -m "added file1.txt"
+git status 
+git ls-files
+vi file1.txt
+git checkout file1.txt
+vi file2.txt
+git status 
+git clean -fd
+git log
+git log --oneline
+git log --oneline --reverse
+vi file3.txt
+git status 
+git add file3.txt
+git diff --staged
+git ls-files
+git rm  --cached -r *.txt
+git ls-files
+git add file3.txt
+git commit -m “file3.txt added”
+git log --oneline 
+ls
+git status
+git add file3.txt 
+git commit -m "file3.txt added"
+git status
+git log --oneline 
+git show c956d15
+git show HEAD:file3.txt
+git show HEAD~1:file1.txt
+git ls-tree HEAD
+vi file1.txt
+git log --oneline 
+git checkout <792046f> .
+git checkout 792046f .
+more file1.txt
+git restore --source=HEAD~1 file1.txt
+cd ..
+mkdir sky
+cd sky
+git init
+git remote add origin https://github.com/ParthuReddy31/advSurveySoft.git
+git push origin main
+git push origin 
+git push --set-upstream origin master
+git branch -M main
+git push origin
+git branch -M master
+git status
+git pull
+git merge master
+git merge origin/master
+git log
+git pull
+git pull origin master 
+git push origin
+git push --set-upstream origin master
+git remote get-url 
+git remote --all
+git remote get-url --all
+git remote -h
+git push origin
+git help config
+git push origin
+ls
+git push --set-upstream origin master
+history
+ls
+ls ~/.ssh/
+cat id_ed25519.pub
+cat ~/.ssh/id_ed25519.pub 
+git remote set-url origin git@github.com:ParthuReddy31/advSurveySoft.git
+git push --set-upstream origin master
+cat ~/.zshhistory
+ls -a
+ls -a ~/
+cat ~/.bash_history 
