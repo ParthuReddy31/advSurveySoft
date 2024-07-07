@@ -423,7 +423,91 @@ ls
 ls -la
 git add demo.txt
 git status
-git commit -m "file added by Parthu"user.name “parthasarathireddykota”
+git commit -m "file added by Parthu"
+git commit -m "file added by Parth"
+ls -la
+cd .git
+ls
+cd branches/
+ls
+ls -la
+cd ..
+cd logs/
+ls -la
+tail -10
+tail -n 10 HEAD
+git stash list
+cd ..
+ls
+git stash list
+git stash --help
+git stash apply 18b7652
+git branch 
+touch demo1.txt
+vi demo1.txt 
+git add demo1.txt
+git status
+ls 
+git log
+git commit -m "file added by Parth"
+git status
+git log
+git reset --hard f2ab579b8e63d0a168304369f07ae1011c23cec8
+git log
+git reset --hard 9fbee7da20ceb650da0bbb1935e4a7e7eb6861cc
+git log
+git reset 
+git push git@github.com:ParthuReddy31/Devops.git
+git pull git@github.com:ParthuReddy31/Devops.git 
+git config user.name "ParthuReddy31" && git config user.email "pardhureddy084@gmail.com" --global
+git push git@github.com:ParthuReddy31/Devops.git
+git remote -v
+ls -l ~/.ssh/id*
+git log
+ls
+ls -l
+ls -la
+rm -rf .git
+ls -la
+cd Devops/
+ls
+cd ..
+cd raja
+ls
+cd ..
+cd vp
+ls
+ls -la
+git init
+git add parthu.sh 
+git status
+git commit -m "file added by Parthuuu"
+git log
+git status
+cd ..
+cd Devops/
+git status
+cd ..
+cd -
+cd ..
+cd vp
+git remote -v
+git remote add origin git@github.com:ParthuReddy31/Devops.git
+git remote -v
+git clone git@github.com:ParthuReddy31/Devops.git
+cd  Devops/
+ls
+cd ..
+ls
+docker ps -a
+docker ps
+docker stop 79bb28fa5a9e
+docker ps
+docker srat 79bb28fa5a9e
+docker start 79bb28fa5a9e
+docker exec -it 79bb28fa5a9e /bin/bash
+git --version
+git config --global user.name “parthasarathireddykota”
 git config - -global user.email “yvt10@txstate.edu"
 git config --global user.email “yvt10@txstate.edu"
 git config - -global user.email “pardhureddy084@gmail.com"
@@ -532,3 +616,5 @@ cat ~/.zshhistory
 ls -a
 ls -a ~/
 cat ~/.bash_history 
+[?2004h]0;ubuntu@ip-172-31-25-163: ~/sky[01;32mubuntu@ip-172-31-25-163[00m:[01;34m~/sky[00m$ git add a.txt
+[?2004l[?2004h]0;ubunt
